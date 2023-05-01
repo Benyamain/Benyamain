@@ -25,3 +25,5 @@
 [![Ben's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benyamain&theme=tokyonight)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
+
+<a href="https://github.com/Benyamain"><img src="https://komarev.com/ghpvc/?username=Benyamain" alt="Benyamain" /></a>
