@@ -7,6 +7,23 @@
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in mobile app development, game development, and AI research.
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
+
+```python
+class Benyamain():
+    
+  def __init__(self):
+    self.name = "Ben Yacoob";
+    self.username = "Benyamain";
+    self.location = "United States";
+    self.web = "https://www.benyacoob.com/";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Benyamain()
+```
+
 ## :mailbox: Connect With Me
 - :handshake: [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
 - :email: [Email](https://mail.google.com/mail/u/0/?fs=1&to=yacoobbenyamain@gmail.com&su=Subject&body=Body&tf=cm)
