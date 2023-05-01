@@ -43,4 +43,8 @@ if __name__ == '__main__':
 <br />
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 
+## :musical_note: Now Playing
+
+[![Spotify](https://github-readme-spotify-integration.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW)
+
 <a href="https://github.com/Benyamain"><img src="https://komarev.com/ghpvc/?username=Benyamain" alt="Benyamain" /></a>
