@@ -36,7 +36,8 @@ if __name__ == '__main__':
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%2307405e.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-%2307405e.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 ## :chart_with_upwards_trend: Stats  
 [![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
