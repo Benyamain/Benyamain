@@ -5,7 +5,7 @@
 </p>
                                                                                                                                          
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
-- 👀 I’m interested in mobile app development, game development, and AI research.
+- 👀 I’m interested in game development, AI applications, and mobile development,.
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 
 ```python
