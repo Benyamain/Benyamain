@@ -47,7 +47,7 @@ if __name__ == '__main__':
 ![Google Colab](https://img.shields.io/badge/googlecolab-%2307405e.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## :chart_with_upwards_trend: Stats
-<img align="right" src="https://media.giphy.com/media/l2Je5WxFoEf5fmWnC/giphy.gif" alt="stats gif" width="350">
+<img align="right" src="https://media.giphy.com/media/l2Je5WxFoEf5fmWnC/giphy.gif" alt="stats gif" width="250">
 
 [![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 <br />
