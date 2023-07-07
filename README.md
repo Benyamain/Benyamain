@@ -7,6 +7,7 @@
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in game development, AI applications, and mobile development.
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
+- 🦆 Proud member of the Duckateers.
 
 ```python
 class Benyamain():
