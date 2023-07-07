@@ -25,9 +25,14 @@ if __name__ == '__main__':
 ```
 
 ## :mailbox: Connect With Me
+<img align="right" src="https://media.giphy.com/media/2HtWpp60NQ9CU/giphy.gif" alt="handshake gif" width="150">
+
 - :handshake: [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
 - :email: [Email](https://mail.google.com/mail/u/0/?fs=1&to=yacoobbenyamain@gmail.com&su=Subject&body=Body&tf=cm)
-## :hourglass_flowing_sand: Experience  
+
+## :hourglass_flowing_sand: Experience
+<img align="right" src="https://media.giphy.com/media/toXKzaJP3WIgM/giphy.gif" alt="experience gif" width="150">
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%2307405e.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2307405e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,7 +46,9 @@ if __name__ == '__main__':
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/googlecolab-%2307405e.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## :chart_with_upwards_trend: Stats  
+## :chart_with_upwards_trend: Stats
+<img align="right" src="https://media.giphy.com/media/l2Je5WxFoEf5fmWnC/giphy.gif" alt="stats gif" width="350">
+
 [![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 <br />
 [![Ben's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benyamain&theme=tokyonight)](https://git.io/streak-stats)
@@ -49,6 +56,7 @@ if __name__ == '__main__':
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 
 ## :musical_note: Now Playing
+<img align="right" src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" alt="vibing gif" width="250">
 
 [![Spotify](https://github-readme-spotify-integration.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW)
 
