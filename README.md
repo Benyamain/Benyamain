@@ -45,7 +45,6 @@ if __name__ == '__main__':
 ![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%2307405e.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/googlecolab-%2307405e.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## :chart_with_upwards_trend: Stats
 <img align="right" src="https://media.giphy.com/media/l2Je5WxFoEf5fmWnC/giphy.gif" alt="stats gif" width="250">
