@@ -8,7 +8,7 @@
 - 👀 I’m interested in game development, AI applications, and mobile development.
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 - 🦆 Proud member of the Duckateers.
-- I am currently learning Scala ⚖️
+- ⚖️ I am currently learning Scala!
 
 ```python
 class Benyamain():
