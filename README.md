@@ -8,6 +8,7 @@
 - 👀 I’m interested in game development, AI applications, and mobile development.
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 - 🦆 Proud member of the Duckateers.
+- I am currently learning Scala ⚖️
 
 ```python
 class Benyamain():
@@ -47,6 +48,7 @@ if __name__ == '__main__':
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%2307405e.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/r-%2307405e.svg?style=for-the-badge&logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%2307405e.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 ## :chart_with_upwards_trend: Stats
 <img align="right" src="https://media.giphy.com/media/l2Je5WxFoEf5fmWnC/giphy.gif" alt="stats gif" width="250">
