@@ -5,7 +5,7 @@
 </p>
                                                                                                                                          
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
-- 👀 I’m interested in game development, AI applications, and mobile development.
+- 👀 Driven to making AI more understandable, particularly in the domain of Explainable AI (XAI).
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 - 🦆 Proud member of the Duckateers.
 - ⚖️ I am currently learning Scala!
@@ -47,7 +47,6 @@ if __name__ == '__main__':
 ![Unity](https://img.shields.io/badge/unity-%2307405e.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%2307405e.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![R](https://img.shields.io/badge/r-%2307405e.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%2307405e.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 ## :chart_with_upwards_trend: Stats
