@@ -5,7 +5,7 @@
 </p>
                                                                                                                                          
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
-- 👀 Driven to making AI more understandable, particularly in the domain of Explainable AI (XAI).
+- 👀 Driven to make AI more understandable, particularly in the domain of Explainable AI (XAI).
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 - 🦆 Proud member of the Duckateers.
 - ⚖️ I am currently learning Scala!
