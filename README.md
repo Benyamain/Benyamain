@@ -47,6 +47,7 @@ if __name__ == '__main__':
 ![Unity](https://img.shields.io/badge/unity-%2307405e.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%2307405e.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2307405e.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colaboratory](https://img.shields.io/badge/googlecolab-%2307405e.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%2307405e.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 ## :chart_with_upwards_trend: Stats
