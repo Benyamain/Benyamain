@@ -13,10 +13,10 @@
 class Benyamain():
     
   def __init__(self):
-    self.name = "Ben Yacoob";
-    self.username = "Benyamain";
-    self.location = "United States";
-    self.web = "https://www.benyacoob.com/";
+    self.name = "Ben Yacoob"
+    self.username = "Benyamain"
+    self.location = "United States"
+    self.web = "https://www.benyacoob.com/"
   
   def __str__(self):
     return self.name
