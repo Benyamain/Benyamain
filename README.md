@@ -1,9 +1,3 @@
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/89230606/230239042-0191469e-d077-466c-b938-78a1ce9e4ac0.png" alt="my banner">
-                                                                                                                                         
-</p>
-                                                                                                                                         
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
 - 👀 Driven to make AI more understandable, particularly in the domain of Explainable AI (XAI).
 - :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
