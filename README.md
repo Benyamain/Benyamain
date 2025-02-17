@@ -1,4 +1,4 @@
-The intersection of machine learning, mathematics, and philosophy.
+The intersection of mathematics, artificial intelligence, and philosophical inquiry.
 
 <img align="right" src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" alt="vibing gif" width="250">
 
