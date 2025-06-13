@@ -1,4 +1,4 @@
-A multidisciplinary enthusiast engaged in exploring the intersection of mathematics, artificial intelligence, and philosophical inquiry.
+A multidisciplinary researcher focused on the intersection of mathematics, artificial intelligence, and philosophical inquiry.
 
 <img align="right" src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" alt="vibing gif" width="250">
 
